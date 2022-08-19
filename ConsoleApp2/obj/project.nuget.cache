@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipPQH5Jc6V/BrHVz/vWw94KMEHJSjIeNqmVGYd2BuYk5NtO0JlKm6u/YiJhmf1fczXUAt0gsGbAS80fNSbHBow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dieudonne\\source\\repos\\ConsoleApp2\\ConsoleApp2\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dieudonne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
